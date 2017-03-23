@@ -1,4 +1,1 @@
-demo\Controller.class
-demo\Application.class
-demo\Username.class
-demo\Password.class
+demo/UserController.class
